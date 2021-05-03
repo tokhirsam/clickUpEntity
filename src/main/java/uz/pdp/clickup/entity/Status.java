@@ -13,7 +13,7 @@ import java.util.UUID;
 @NoArgsConstructor
 @Data
 @Entity
-public class status {
+public class Status {
 
     @GeneratedValue
     @Id
